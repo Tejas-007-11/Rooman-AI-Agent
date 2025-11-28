@@ -112,6 +112,7 @@ Or add a `.env` file.
 ## ▶️ Running the Application
 
 ```bash
+python ingest.py
 streamlit run app.py
 ```
 
