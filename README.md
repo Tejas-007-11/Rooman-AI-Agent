@@ -139,12 +139,6 @@ Final Answer Displayed in Streamlit
 
 ##  Architecture Diagram
 
-A PNG diagram is included:
-
-**`architecture_diagram.png`**
-
-Or generated using this Mermaid code:
-
 ```mermaid
 flowchart TD
 
